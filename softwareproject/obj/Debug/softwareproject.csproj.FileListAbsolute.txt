@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\softwareproject\softwareproject\bin\Debug\softwareproject.exe.config
+C:\Users\User\source\repos\softwareproject\softwareproject\bin\Debug\softwareproject.exe
+C:\Users\User\source\repos\softwareproject\softwareproject\bin\Debug\softwareproject.pdb
+C:\Users\User\source\repos\softwareproject\softwareproject\obj\Debug\softwareproject.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\softwareproject\softwareproject\obj\Debug\softwareproject.Form1.resources
+C:\Users\User\source\repos\softwareproject\softwareproject\obj\Debug\softwareproject.Properties.Resources.resources
+C:\Users\User\source\repos\softwareproject\softwareproject\obj\Debug\softwareproject.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\softwareproject\softwareproject\obj\Debug\softwareproject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\softwareproject\softwareproject\obj\Debug\softwareproject.exe
+C:\Users\User\source\repos\softwareproject\softwareproject\obj\Debug\softwareproject.pdb
